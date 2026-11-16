@@ -22,7 +22,7 @@
     "url": "http://guillaumepotier.com/"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.3",
     "mocha": "1.9.0",
     "mocha-phantomjs": "*",
     "expect.js": "*",
